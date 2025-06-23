@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am author of the blog"
   location         : #
-  email            : hirenrathod@myyahoo.com
+  email            : "hirenrathod@myyahoo.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
